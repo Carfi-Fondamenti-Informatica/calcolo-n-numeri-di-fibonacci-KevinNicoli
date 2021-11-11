@@ -10,7 +10,7 @@ int main() {
             k = j + l;
             cout << k << endl;
             i=j;
-            j= j+l;
+            j= i+l;
             l=i;
             m++;
 
